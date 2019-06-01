@@ -1,10 +1,10 @@
-public class AddTwoNumbers {
-
-   public static void main(String[] args) {
-        
-      int num1 = 5, num2 = 15, sum;
-      sum = num1 + num2;
-
-      System.out.println("Sum of these numbers: "+sum);
-   }
-}
+public class IfExample {  
+public static void main(String[] args) {  
+    //defining an 'age' variable  
+    int age=20;  
+    //checking the age  
+    if(age>18){  
+        System.out.print("Age is greater than 18");  
+    }  
+}  
+} 
